@@ -3,7 +3,7 @@
 Summary:	Volumes manager for Thunar
 Name:		thunar-plugin-volman
 Version:	0.8.0
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Applications
 Source0:	http://archive.xfce.org/src/apps/thunar-volman/0.8/%{org_name}-%{version}.tar.bz2
